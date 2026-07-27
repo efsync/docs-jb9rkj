@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-riuwvl.juragan89c.site/sitemap.xml
